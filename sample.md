@@ -107,7 +107,6 @@ To add an alert, use a special blockquote line specifying the alert type, follow
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
-
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
