@@ -121,3 +121,6 @@ To add an alert, use a special blockquote line specifying the alert type, follow
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+## Hide content from rendered output in Guthub
+You can tell gitHub to hide content from rendered Markdown by placing the content in an HTML tag
+<!-- This content will not appear in the rendered Markdown -->
